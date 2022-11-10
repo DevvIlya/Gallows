@@ -1,0 +1,3 @@
+# Gallows
+
+Console game gallows.
